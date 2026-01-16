@@ -1,0 +1,12 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+
+# App secrets
+appsettings.Development.json
